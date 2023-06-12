@@ -1,4 +1,4 @@
-# <span style="color: red;">C-Sharp Realización Casos de Uso</span>
+<span style="color: red;">C-Sharp Realización Casos de Uso</span>
 
 Este repositorio trata de documentación sobre etapas de captura de requerimientos y análisis, necesarios para la realización de un caso de uso.
 Contiene descripción del dominio del problema. Explicación del funcionamiento del negocio.
