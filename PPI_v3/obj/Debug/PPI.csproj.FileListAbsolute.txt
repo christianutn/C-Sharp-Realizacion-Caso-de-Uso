@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\bin\Debug\PPI.exe.config
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\bin\Debug\PPI.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\bin\Debug\PPI.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\PAV1\Proyectos\PPI\obj\Debug\PPI.PantallaRtaOperador.resources

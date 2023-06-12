@@ -1,0 +1,12 @@
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI_v3.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI_v3.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI.Capa_de_presentacion.PantallaDescripcion.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI_v3.PantallaRtaOperador.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI_v3.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI_v3.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\obj\Debug\PPI.pdb
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\bin\Debug\PPI.exe.config
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\bin\Debug\PPI.exe
+C:\Users\chris\OneDrive\Escritorio\UTN\tercero\DSI\PPI_v3\bin\Debug\PPI.pdb
